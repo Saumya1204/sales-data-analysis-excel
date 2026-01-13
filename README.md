@@ -13,7 +13,7 @@ Sample Superstore dataset.
 - Data cleaning (removed duplicates, fixed date formats)
 - Monthly sales trend analysis using pivot tables and line chart
 - Top 5 products analysis by sales
-- Profit analysis by category
+- Profit analysis by category using pivot tables and column chart
 
 ## Key Insights
 - Sales peak during Q4, indicating seasonal demand
